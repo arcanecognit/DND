@@ -1,0 +1,10 @@
+\begin{array}{|l|l|r|}
+\hline
+\textbf{Type} & \textbf{Time} & \textbf{Cost} \\
+\hline
+\text{Healing} & 1\,\text{day} & 25\,\text{gp} \\
+\text{Greater healing} & 1\,\text{workweek} & 100\,\text{gp} \\
+\text{Superior healing} & 3\,\text{workweeks} & 1000\,\text{gp} \\
+\text{Supreme healing} & 4\,\text{workweeks} & 10000\,\text{gp} \\
+\hline
+\end{array}
